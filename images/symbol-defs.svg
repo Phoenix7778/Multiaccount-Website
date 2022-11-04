@@ -1,0 +1,15 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-arrow-down" viewBox="0 0 27 32">
+<path fill="#556ee6" style="fill: var(--color1, #556ee6)" d="M10.667 27.556v-23.111c0-1.473 1.194-2.667 2.667-2.667s2.667 1.194 2.667 2.667v23.111c0 1.473-1.194 2.667-2.667 2.667s-2.667-1.194-2.667-2.667z"></path>
+<path fill="#556ee6" style="fill: var(--color1, #556ee6)" d="M15.465 26.844l-7.821-7.253c-1.080-1.001-2.831-1.001-3.91 0s-1.080 2.625 0 3.627l7.821 7.253c1.080 1.001 2.831 1.001 3.91 0s1.080-2.625 0-3.627z"></path>
+<path fill="#556ee6" style="fill: var(--color1, #556ee6)" d="M22.831 23.538l-7.425 6.886c-1.104 1.024-2.895 1.024-3.999 0s-1.104-2.685 0-3.709l7.425-6.886c1.104-1.024 2.895-1.024 3.999 0s1.104 2.685 0 3.709z"></path>
+</symbol>
+<symbol id="icon-triangle-part-1" viewBox="0 0 60 32">
+<path d="M32.773 30.664c-0.718 0.692-1.696 1.118-2.773 1.118s-2.055-0.426-2.775-1.119l0.001 0.001-24.716-23.781c-2.595-2.497-0.827-6.883 2.773-6.883h49.431c3.601 0 5.369 4.387 2.773 6.883l-24.715 23.781z"></path>
+</symbol>
+<symbol id="icon-triangle-part-2" viewBox="0 0 54 32">
+<path fill="none" stroke="#fff" style="stroke: var(--color2, #fff)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="9.6" d="M4.8 6.4l22.4 20.8 22.4-20.8"></path>
+</symbol>
+</defs>
+</svg>
